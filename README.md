@@ -79,3 +79,4 @@ if __name__ == '__main__':
 // /admin을 경로에 입력하면 해당 창이 나오게된다. 이때 쿠키의 세션 코드를 guest 또는 user 계정으로 로그인하여 이 계정들의 세션값에 저장하면 admin계정으로 로그인 성공!
 ![image](https://user-images.githubusercontent.com/102034804/172055820-91bf44b8-a012-4cbd-9eb8-9392cad1d26d.png)
 
+//flag를 획득하게 된다.
